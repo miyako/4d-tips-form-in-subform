@@ -28,27 +28,16 @@
 					"top": 135,
 					"width": 287,
 					"height": 162,
-					"detailForm": "SUBFORM",
+					"detailForm": "SUBFORM_2",
 					"borderStyle": "sunken",
 					"sizingY": "grow",
 					"sizingX": "grow",
-					"dataSource": "Form:C1466.subform"
-				},
-				"Input": {
-					"type": "input",
-					"left": 20,
-					"top": 40,
-					"width": 244,
-					"height": 81,
-					"dataSourceTypeHint": "object",
-					"dataSource": "Form:C1466.form",
-					"sizingX": "fixed",
-					"sizingY": "grow",
-					"fill": "#EFFFFD"
+					"dataSource": "",
+					"dataSourceTypeHint": "undefined"
 				},
 				"Text": {
 					"type": "text",
-					"text": "Form.form:",
+					"text": "Form.subform.form:",
 					"top": 13,
 					"left": 20,
 					"width": 244,
@@ -58,7 +47,7 @@
 				},
 				"Text1": {
 					"type": "text",
-					"text": "Form.subform:",
+					"text": "no named datasource:",
 					"top": 110,
 					"left": 320,
 					"width": 244,
@@ -66,21 +55,22 @@
 					"fontWeight": "bold",
 					"stroke": "#696969"
 				},
-				"Text2": {
-					"type": "text",
-					"text": "Form.subform:=New object(\"parent\";Form)",
-					"top": 208,
+				"Input1": {
+					"type": "input",
 					"left": 20,
-					"width": 299,
-					"height": 16,
-					"fontWeight": "bold",
-					"stroke": "#696969",
-					"sizingY": "move"
+					"top": 40,
+					"width": 244,
+					"height": 81,
+					"dataSourceTypeHint": "object",
+					"dataSource": "Form:C1466.subform.form",
+					"sizingX": "fixed",
+					"sizingY": "grow",
+					"fill": "#FFF6F7"
 				}
 			}
 		}
 	],
 	"menuBar": "Barre #1",
 	"method": "method.4dm",
-	"geometryStamp": 1
+	"geometryStamp": 6
 }

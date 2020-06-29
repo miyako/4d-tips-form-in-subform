@@ -1,11 +1,15 @@
 ﻿{
 	"forms": {
-		"SUBFORM": {
+		"SUBFORM_1": {
 			"timeStamp": "2020-06-29T23:00:30.771Z",
 			"destination": "detailScreen"
 		},
+		"SUBFORM_2": {
+			"timeStamp": "2020-06-29T23:25:48.870Z",
+			"destination": "detailScreen"
+		},
 		"MAIN": {
-			"timeStamp": "2020-06-29T22:59:39.514Z",
+			"timeStamp": "2020-06-29T23:28:30.441Z",
 			"destination": "detailScreen"
 		}
 	}

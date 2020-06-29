@@ -1,14 +1,20 @@
 ﻿{
 	"Sources/Forms/MAIN/form.4DForm": {
-		"left": 424,
-		"top": 139,
+		"left": 583,
+		"top": 221,
 		"width": 780,
-		"height": 642
+		"height": 668
 	},
 	"Sources/Forms/SUBFORM/form.4DForm": {
 		"left": 424,
 		"top": 113,
 		"width": 780,
 		"height": 668
+	},
+	"Sources/Forms/SUBFORM_2/form.4DForm": {
+		"left": 583,
+		"top": 247,
+		"width": 780,
+		"height": 642
 	}
 }

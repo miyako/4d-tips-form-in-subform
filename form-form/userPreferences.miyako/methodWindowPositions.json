@@ -1,7 +1,13 @@
 ﻿{
 	"Sources/Forms/MAIN/method.4dm": {
-		"left": 424,
-		"top": 139,
+		"left": 583,
+		"top": 247,
+		"width": 780,
+		"height": 642
+	},
+	"Sources/Forms/SUBFORM_2/method.4dm": {
+		"left": 583,
+		"top": 247,
 		"width": 780,
 		"height": 642
 	}

@@ -1,18 +1,6 @@
 ﻿{
 	"editors": [
 		{
-			"type": "form",
-			"id": 173,
-			"previousTabType": "form",
-			"previousTabID": 174,
-			"formName": "SUBFORM"
-		},
-		{
-			"type": "form",
-			"id": 174,
-			"formName": "MAIN"
-		},
-		{
 			"type": "explorer"
 		}
 	]
