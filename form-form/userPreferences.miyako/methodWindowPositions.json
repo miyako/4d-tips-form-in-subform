@@ -1,14 +1,20 @@
 ﻿{
 	"Sources/Forms/MAIN/method.4dm": {
-		"left": 583,
-		"top": 247,
-		"width": 780,
-		"height": 642
+		"left": 438,
+		"top": 374,
+		"width": 997,
+		"height": 746
 	},
 	"Sources/Forms/SUBFORM_2/method.4dm": {
-		"left": 583,
-		"top": 247,
-		"width": 780,
-		"height": 642
+		"left": 438,
+		"top": 348,
+		"width": 997,
+		"height": 772
+	},
+	"Sources/Methods/TEST_2.4dm": {
+		"left": 438,
+		"top": 322,
+		"width": 997,
+		"height": 798
 	}
 }
